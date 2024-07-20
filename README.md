@@ -1,5 +1,5 @@
-# 💫 About Me:
-<br>Hi, I am Aritra Chatterjee , a passionate Backend developer from India<br><br>🔬 I'm currently studying Engineering in Kolkata , Department of Electronics and Communication Engineering 🎓<br>💻 I love exploring the living colors of development<br>📚 I’m currently learning frameworks like Express, databases like MongoDb, etc.<br>📫 How to reach me: aritra.chatterjee.ece27@heritageit.edu.in<br><br>
+# Hi, I am Aritra Chatterjee 
+<br>a passionate Backend developer from India<br><br>🔬 I'm currently studying Engineering in Kolkata , Department of Electronics and Communication Engineering 🎓<br>💻 I love exploring the living colors of development<br>📚 I’m currently learning frameworks like Express, databases like MongoDb, etc.<br>📫 How to reach me: aritra.chatterjee.ece27@heritageit.edu.in<br><br>
 
 
 ## 🌐 Socials:
